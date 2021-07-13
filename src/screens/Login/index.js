@@ -19,7 +19,9 @@ const styles = StyleSheet.create({
 const LoginScreen = ({ login }) => {
   const handleLoginPress = async () => {
     try {
-      login("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");
+      
+      // like this ghp_asdasdasdasdasdasdasdasdasdas
+      login("YourTOKEN");
       // const { accessToken } = await loginWithGithub();
 
       // if (accessToken) {
