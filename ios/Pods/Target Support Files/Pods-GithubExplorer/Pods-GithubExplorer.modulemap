@@ -1,0 +1,6 @@
+module Pods_GithubExplorer {
+  umbrella header "Pods-GithubExplorer-umbrella.h"
+
+  export *
+  module * { export * }
+}
